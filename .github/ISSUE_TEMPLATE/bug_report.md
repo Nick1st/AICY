@@ -25,9 +25,9 @@ If applicable, add screenshots to help explain your Problem:
 
 **Desktop (please complete the following information):**
 
- - OS: [e.g. Windows 10 Home (x64)]
- - Python-Version: [e.g. 3.5.8rc2 ]
- - AICY-Version [e.g. 1.1_t1]
+- OS: [e.g. Windows 10 Home (x64)]
+- Python-Version: [e.g. 3.5.8rc2 ]
+- AICY-Version [e.g. 1.1_t1]
 
 **Smartphone (NOT SUPPORTED):**
 
